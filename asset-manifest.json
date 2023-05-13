@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/street-artist-page/static/css/main.b349a254.css",
-    "main.js": "/street-artist-page/static/js/main.f6acfd1c.js",
-    "static/js/787.23f137de.chunk.js": "/street-artist-page/static/js/787.23f137de.chunk.js",
-    "static/media/streetart.jpg": "/street-artist-page/static/media/streetart.cff11951159e44517a71.jpg",
-    "static/media/streetart5.jpg": "/street-artist-page/static/media/streetart5.2c4b206dc7135fc0fbf8.jpg",
-    "static/media/streetart4.jpg": "/street-artist-page/static/media/streetart4.3c97aac1b32562659954.jpg",
-    "static/media/streetart2.jpg": "/street-artist-page/static/media/streetart2.c5cd3aac0409a8d7260f.jpg",
-    "static/media/streetart3.jpg": "/street-artist-page/static/media/streetart3.1b1f7f59433d107b5776.jpg",
-    "static/media/boy.jpg": "/street-artist-page/static/media/boy.39233b4109a38bc54351.jpg",
-    "index.html": "/street-artist-page/index.html",
-    "main.b349a254.css.map": "/street-artist-page/static/css/main.b349a254.css.map",
-    "main.f6acfd1c.js.map": "/street-artist-page/static/js/main.f6acfd1c.js.map",
-    "787.23f137de.chunk.js.map": "/street-artist-page/static/js/787.23f137de.chunk.js.map"
+    "main.css": "/Street-Page-w3.css/static/css/main.b349a254.css",
+    "main.js": "/Street-Page-w3.css/static/js/main.f5e58975.js",
+    "static/js/787.23f137de.chunk.js": "/Street-Page-w3.css/static/js/787.23f137de.chunk.js",
+    "static/media/streetart.jpg": "/Street-Page-w3.css/static/media/streetart.cff11951159e44517a71.jpg",
+    "static/media/streetart5.jpg": "/Street-Page-w3.css/static/media/streetart5.2c4b206dc7135fc0fbf8.jpg",
+    "static/media/streetart4.jpg": "/Street-Page-w3.css/static/media/streetart4.3c97aac1b32562659954.jpg",
+    "static/media/streetart2.jpg": "/Street-Page-w3.css/static/media/streetart2.c5cd3aac0409a8d7260f.jpg",
+    "static/media/streetart3.jpg": "/Street-Page-w3.css/static/media/streetart3.1b1f7f59433d107b5776.jpg",
+    "static/media/boy.jpg": "/Street-Page-w3.css/static/media/boy.39233b4109a38bc54351.jpg",
+    "index.html": "/Street-Page-w3.css/index.html",
+    "main.b349a254.css.map": "/Street-Page-w3.css/static/css/main.b349a254.css.map",
+    "main.f5e58975.js.map": "/Street-Page-w3.css/static/js/main.f5e58975.js.map",
+    "787.23f137de.chunk.js.map": "/Street-Page-w3.css/static/js/787.23f137de.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b349a254.css",
-    "static/js/main.f6acfd1c.js"
+    "static/js/main.f5e58975.js"
   ]
 }
